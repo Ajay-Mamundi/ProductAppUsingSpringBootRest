@@ -15,7 +15,7 @@ public class ProductCrudOperationsUsingSpringJpaApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext context= SpringApplication.run(ProductCrudOperationsUsingSpringJpaApplication.class, args);
-
+        System.out.println("sdsfdfdf");
 	}
 
 }
